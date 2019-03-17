@@ -367,11 +367,9 @@ figure{
 	text-align: justify;
 	max-width:500px;
 	font-size: 18px;
-<<<<<<< HEAD
+
 	background: rgba(52,168,231,0.7);
-=======
-	background: rgba(0,0,0,0.7);
->>>>>>> 1e8dbbc50eb81e237d554121a14eae3910597efc
+
 	padding:10px;
 }
 .support{
